@@ -1,2 +1,2 @@
-# tea.yml
+# tea.yaml
 Test progres tea network
